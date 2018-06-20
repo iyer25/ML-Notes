@@ -1,2 +1,2 @@
 # ML-Notes
-Notes 
+Collection of notes from over the years. 
